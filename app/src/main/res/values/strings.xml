@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Lesson 2"</string>
+    <string name="Button2">Knopka 2</string>
+    <string name="button">Knopka 1</string>
+    <string name="message">Sorry, there is nothing</string>
+    <string name="massegeButton">Радость и счастье</string>
+    <string name="title_activity_main2">Lesson 2</string>
+</resources>

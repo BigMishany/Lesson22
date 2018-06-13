@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button">Пункт 1</string>
+    <string name="title_activity_main2">Задание номер ту</string>
+    <string name="app_name">"Задание номер ту"</string>
+    <string name="Button2">Пункт 2</string>
+    <string name="message">Мороз и солнце; день чудесный! \n
+                           Еще ты дремлешь, друг прелестный - \n
+                           Пора, красавица, проснись:\n
+                           Открой сомкнуты негой взоры\n
+                           Навстречу северной Авроры,\n
+                           Звездою севера явись!\n
+    </string>
+    <string name="massegeButton">Радость и счастье</string>
+</resources>
